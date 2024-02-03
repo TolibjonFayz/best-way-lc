@@ -5,7 +5,7 @@
   >
     <div
       id="rightmini"
-      class="hidden text-[#98A2B3] flex-col items-center justify-center gap-3"
+      class="hidden text-[#98A2B3] flex-col items-center justify-center gap-3 mb-5"
     >
       <div id="socials" class="text-[#98A2B3] flex gap-8 text-[24px]">
         <a href="https://t.me/best_way_shafirkan" target="_blank">
