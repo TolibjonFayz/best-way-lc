@@ -1,17 +1,31 @@
 <template>
-  <div id="main" class="mt-20 font-['Poppins']">
+  <div id="courses" class="mt-20 font-['Poppins']">
     <h1 id="title" class="font-semibold text-[40px] ml-40">Kurslar</h1>
     <div
-      id="courses"
+      id="coursesss"
       class="flex flex-wrap justify-center gap-5 mt-10 ml-10 mr-10"
     >
       <div
         class="course flex p-8 bg-[#F3F8FF] rounded-3xl gap-3 font-medium w-[28%]"
       >
-        <img src="/ielts.webp" alt="IELTS" class="w-[80px] h-[80px]" />
+        <img
+          src="/prezident.jpg"
+          alt="IELTS"
+          class="w-[80px] h-[80px] rounded-full"
+        />
         <div class="in flex flex-col">
           <h1 class="text-[30px]">President maktabi guruhi</h1>
           <h3 class="text-[#667085]">10 oy</h3>
+        </div>
+      </div>
+
+      <div
+        class="course flex p-8 bg-[#F3F8FF] rounded-3xl gap-3 font-medium w-[27%]"
+      >
+        <img src="/english.jpg" alt="IELTS" class="w-[80px] h-[80px]" />
+        <div class="in flex flex-col">
+          <h1 class="text-[30px]">Ingliz tili grammatikasi</h1>
+          <h3 class="text-[#667085]">9 oy</h3>
         </div>
       </div>
 
@@ -26,16 +40,6 @@
         <div class="in flex flex-col">
           <h1 class="text-[30px]">Multilevel (CEFR)</h1>
           <h3 class="text-[#667085]">6 oy</h3>
-        </div>
-      </div>
-
-      <div
-        class="course flex p-8 bg-[#F3F8FF] rounded-3xl gap-3 font-medium w-[27%]"
-      >
-        <img src="/english.jpg" alt="IELTS" class="w-[80px] h-[80px]" />
-        <div class="in flex flex-col">
-          <h1 class="text-[30px]">Ingliz tili grammatikasi</h1>
-          <h3 class="text-[#667085]">9 oy</h3>
         </div>
       </div>
 
@@ -158,7 +162,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  #courses {
+  #coursesss {
     margin-left: 20px;
     margin-right: 20px;
   }

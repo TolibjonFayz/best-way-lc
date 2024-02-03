@@ -8,9 +8,7 @@
       <h1 class="text-[25px]">Best Way LC</h1>
     </div>
     <div id="navs" class="flex gap-8 text-[#444]">
-      <a href="#main" class="hover:text-black">Asosiy menu</a>
       <a href="#about" class="hover:text-black">Biz haqimizda</a>
-      <a href="#teachers" class="hover:text-black">O'qituvchilar</a>
       <a href="#courses" class="hover:text-black">Kurslar</a>
       <a href="#contact" class="hover:text-black">Aloqa</a>
     </div>

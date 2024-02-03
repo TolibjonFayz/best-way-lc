@@ -1,5 +1,5 @@
 <template>
-  <div id="main" class="mt-28 font-['Poppins']">
+  <div id="contact" class="mt-28 font-['Poppins']">
     <h1 id="title" class="ml-32 font-semibold text-[40px] mb-8">
       Bizning manzil
     </h1>
@@ -25,7 +25,7 @@
         </div>
         <div>
           <h1 class="text-[#667085] text-[20px]">Telefon</h1>
-          <h2 class="">+998995588406</h2>
+          <h2 class="">+998 99 558 84 06</h2>
         </div>
       </div>
     </div>

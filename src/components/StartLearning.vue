@@ -1,6 +1,6 @@
 <template>
   <div
-    id="main"
+    id="about"
     class="flex justify-center items-center mt-20 font-['Poppins'] gap-20"
   >
     <div
@@ -35,7 +35,7 @@
 }
 
 @media screen and (max-width: 700px) {
-  #main {
+  #about {
     gap: 20px;
   }
   #left {
