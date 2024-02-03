@@ -34,6 +34,7 @@
   #why {
     margin-left: 30px;
     font-size: 24px;
+    margin-right: 20px;
   }
   #whys {
     flex-direction: column;
